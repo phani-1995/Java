@@ -1,0 +1,1 @@
+The content of a text file testout.txt is set with the data A.
